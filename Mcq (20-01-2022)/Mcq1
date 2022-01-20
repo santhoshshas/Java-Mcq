@@ -1,0 +1,37 @@
+1.What is java first name?...//oak
+   a)java    b)teak
+   c)oak     d)cafe
+
+2.Expected output (3*16/4+11-8*(7+4)+9/3)? ...//-62
+    a)64      b)61
+    c)-62     c)-63
+3.Which java platform used to develop Mobile Applications?...//java ME
+   a)Java SE      b)Java EE
+    c)Java ME     D)Java FX
+4.Which is Not a Java KeyWord?...//
+   a)enum     b)else
+   c)if       c)Do-While
+5.Code for Package Creation in CMD?...//javac -d . cn.java
+   a)javac _d . cn.java    b)Javac -d . cn.java
+   c)java -d . cn.java     d)java _d . cn.java
+6.while(int x==4)
+	{
+	  s.o.p("x value is :");...//Error
+	 }	
+    a)x value is:4    b)x value is:
+    c)infinite        d)Error
+7.Syntax for Narrowing Typecasting?...//(c)
+    a)Datatype Variable=variable;    b)Datatype Variable=Datatype;
+    c)Datatype Variable=(Datatype)variable;    d)Datatype Variable=(variable)Datatype;
+8.which is provide libraries to JVM?.../JDK &JRE
+   a)JDk         b)JRE
+   c)Both        d)None of them
+9.Who is Father of Java?...//James gosling
+  a)Ryan Gosling  b)jake Gosling
+  cJames Gosling  d)Jhon Gosling
+10)Which Operator Evaluate all the operands?...//Xor operator(^^)
+    a)||      b)&&
+    c)?:      d)%          
+
+
+
